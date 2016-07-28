@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-scotch",
+  "version": "1.0.0",
+  "description": "Jasmine Tutorial from the scotch.io website https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Bharat Poptwani",
+  "license": "MIT",
+  "devDependencies": {
+    "morgan": "^1.7.0"
+  }
+}
